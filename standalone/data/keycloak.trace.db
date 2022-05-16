@@ -1,0 +1,3 @@
+2022-05-15 22:55:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "REALM" not found; SQL statement:
+update REALM set ssl_required='NONE' where id = 'master' [42102-197]
